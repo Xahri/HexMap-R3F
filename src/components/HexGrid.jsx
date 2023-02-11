@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useMemo, useState } from "react";
 import * as THREE from "three";
-import SimplexNoise from 'https://cdn.skypack.dev/simplex-noise@3.0.0';
+import SimplexNoise from 'simplex-noise';
 import useColor, { colors } from "../hooks/useColor";
 import { Foliage } from "./Foliage";
 import { useFrame } from '@react-three/fiber'
