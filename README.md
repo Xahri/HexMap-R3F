@@ -1,3 +1,14 @@
+This is a project made using React and React Three Fiber (R3F), <br>
+It's an interactive hexagonal world, it uses noise to generate terrain by scaling the hexagons based on the noise, <br>
+and then color them based on their height. <br> 
+
+[Hex Map Project Preview](https://pulsing-cubes-r3f.vercel.app/) <br>
+[Hex Map Project Preview](https://pulsing-cubes.netlify.app/) <br>
+<br>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
